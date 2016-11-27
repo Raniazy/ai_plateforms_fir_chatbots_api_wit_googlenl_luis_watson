@@ -57,7 +57,7 @@ Il est en version bêta et libre d'utilisation.
 <p align="center">
 <img src="https://github.com/Raniazy/ai_plateforms_fir_chatbots_api_wit_googlenl_luis_watson/blob/master/img/luis.png">
 </p>
-##Waston Conversation Service 
+##Watson Conversation Service 
 
 Watson Conversation combine un certain nombre de techniques cognitives pour aider les développeurs à construire et à former des bots définissant les intentions et les entités et l'artisanat de dialogue pour simuler la conversation. Le système peut ensuite être raffiné avec des technologies supplémentaires pour rendre le système plus humain-like ou de lui donner une plus grande chance de retourner la bonne réponse. Watson Conversation Service est généralement utilisé en conjonction avec d'autres services Watson NLP tels que Alchemy Language ou Natural Language Classifier.
 <p align="center">

@@ -15,7 +15,7 @@ Wit est une interface de langage naturel pour les applications capables de trans
 
 Elle est simple a utiliser vu ses outils raffinés. Elle permet d'extraire des informations structurés depuis un message ainsi que le suivi des interactions entre les utilisateurs et le chatbot. 
 <p align="center">
-<img src="https://github.com/Raniazy/ai_plateforms_fir_chatbots_api_wit_googlenl_luis_watson/img/wit.png">
+<img src="https://github.com/Raniazy/ai_plateforms_fir_chatbots_api_wit_googlenl_luis_watson/blob/master/img/wit.png">
 </p>
 L'API Wit permet aux appels HTTP GET de renvoyer le sens extrait d'une phrase donnée en fonction des exemples appris par l'application. L'API retourne des réponses formatées JSON.
 
@@ -25,7 +25,7 @@ Api.ai est un outils de Langage naturel dédié à la conception des scénarios 
 
 Api.ai fournit une plateforme qui permet aux développeurs de concevoir et d'implémenter des interfaces de conversation qui peuvent être intégrées dans des applications externes comme des bots. Fonctionnellement, Api.ai inclut des fonctionnalités telles que la reconnaissance vocale, l'exécution ainsi qu'un ensemble d'outils de gestion robuste. Api.ai fournit l'intégration avec plusieurs plates-formes de bot et est particulièrement populaire dans la communauté Slack.
 <p align="center">
-<img src="https://github.com/Raniazy/ai_plateforms_fir_chatbots_api_wit_googlenl_luis_watson/img/api.png">
+<img src="https://github.com/Raniazy/ai_plateforms_fir_chatbots_api_wit_googlenl_luis_watson/blob/master/img/api.png">
 </p>
 
 ##Google Natural Language (NL)
@@ -38,7 +38,7 @@ Voici un exemple d'analyse de la phrase : "Google, headquartered in Mountain Vie
 
 En plus de l'analyse des entités contenues dans la phrases, en occurrence : PERSON, LOCATION, ORGANISATION ... On trouve l'analyse des Sentiments ainsi que la Syntaxe de la phrase.  
 <p align="center">
-<img src="https://github.com/Raniazy/ai_plateforms_fir_chatbots_api_wit_googlenl_luis_watson/img/ggle.png">
+<img src="https://github.com/Raniazy/ai_plateforms_fir_chatbots_api_wit_googlenl_luis_watson/blob/master/img/ggle.png">
 </p>
 ##LUIS : Language Understanding Intelligence Service de Microsoft 
 
@@ -48,13 +48,13 @@ LUIS s'appuie sur du Machine Learning et la NLP de Microsoft Research et Bing, y
 
 Il est en version bêta et libre d'utilisation.
 <p align="center">
-<img src="https://github.com/Raniazy/ai_plateforms_fir_chatbots_api_wit_googlenl_luis_watson/img/luis.png">
+<img src="https://github.com/Raniazy/ai_plateforms_fir_chatbots_api_wit_googlenl_luis_watson/blob/master/img/luis.png">
 </p>
 ##Waston Conversation Service 
 
 Watson Conversation combine un certain nombre de techniques cognitives pour aider les développeurs à construire et à former des bots définissant les intentions et les entités et l'artisanat de dialogue pour simuler la conversation. Le système peut ensuite être raffiné avec des technologies supplémentaires pour rendre le système plus humain-like ou de lui donner une plus grande chance de retourner la bonne réponse. Watson Conversation Service est généralement utilisé en conjonction avec d'autres services Watson NLP tels que Alchemy Language ou Natural Language Classifier.
 <p align="center">
-<img src="https://github.com/Raniazy/ai_plateforms_fir_chatbots_api_wit_googlenl_luis_watson/img/watson.png">
+<img src="https://github.com/Raniazy/ai_plateforms_fir_chatbots_api_wit_googlenl_luis_watson/blob/master/img/watson.png">
 </p>
 
 J'ai examiné à la fois wit.ai, Google NL et API.AI La console API.AI est plus facile a utiliser et semble produire des applications qui apprennent beaucoup plus vite que celle sur Wit.ai. Bien que cette dernière bugg quand les scénarios se compliquent avec un apprentissage moins vite, ses stratégies sont fortes et l'interface est formidable.
